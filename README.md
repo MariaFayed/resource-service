@@ -4,7 +4,7 @@ The **resource-service** is a protected NestJS microservice that manages educati
 
 ---
 
-## 🚀 Features
+## Features
 
 - Role-based access via Keycloak JWTs (`user`, `admin`)
 - Manage `courses` and `companies`
@@ -15,7 +15,7 @@ The **resource-service** is a protected NestJS microservice that manages educati
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 - **NestJS**
 - **MongoDB (via Mongoose)**
@@ -25,6 +25,6 @@ The **resource-service** is a protected NestJS microservice that manages educati
 
 ---
 
-## ⚙️ Environment Variables
+## Environment Variables
 
 Create a `.env` file in the root: (Find attached in the email)
