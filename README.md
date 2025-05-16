@@ -1,4 +1,4 @@
-# 📦 Resource Service
+# Resource Service
 
 The **resource-service** is a protected NestJS microservice that manages educational resources like **courses** and **companies**. It uses **MongoDB** for persistence and integrates with **Keycloak** for authentication and authorization.
 
@@ -28,3 +28,8 @@ The **resource-service** is a protected NestJS microservice that manages educati
 ## Environment Variables
 
 Create a `.env` file in the root: (Find attached in the email)
+
+
+## Contact
+
+Created with ❤️ by Maria Magdi
